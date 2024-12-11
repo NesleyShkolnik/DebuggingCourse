@@ -1,0 +1,6 @@
+﻿  Shapes.cpp
+  shape.cpp
+  triangle.cpp
+C:\Users\Cyber_User\Downloads\DebugWorkshop\DebugWorkshop\Shapes\triangle.cpp(10,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Shapes.vcxproj -> C:\Users\Cyber_User\Downloads\DebugWorkshop\DebugWorkshop\Debug\Shapes.exe
